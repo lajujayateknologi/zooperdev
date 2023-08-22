@@ -1,0 +1,1 @@
+# lajujayateknologi.github.io
