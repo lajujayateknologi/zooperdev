@@ -1,1 +1,1 @@
-# lajujayateknologi.github.io
+# Laju Jaya Media Teknologi
