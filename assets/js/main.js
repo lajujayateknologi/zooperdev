@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', function () {
       'why-subtitle': 'Keunggulan yang membuat kami berbeda dari yang lain',
       'why1-title': 'Kualitas Terjamin',
       'why1-desc': 'Menggunakan teknologi terkini dan metodologi pengembangan terbaik untuk menghasilkan solusi berkualitas tinggi.',
-      'why2-title': 'Pengiriman Cepat',
+      'why2-title': 'Pengerjaan Cepat',
       'why2-desc': 'Proses pengembangan yang efisien dengan timeline yang jelas dan komunikasi yang transparan.',
       'why3-title': 'Tim Profesional',
       'why3-desc': 'Tim yang berdedikasi tinggi dengan sertifikasi internasional dan komitmen pada kualitas.',
