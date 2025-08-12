@@ -1,6 +1,6 @@
-# Laju Jaya Teknologi
+# Laju Jaya Media Teknologi
 
-Website perusahaan Laju Jaya Teknologi - Solusi teknologi terpercaya untuk bisnis Anda.
+Website perusahaan Laju Jaya Media Teknologi - Solusi teknologi terpercaya untuk bisnis Anda.
 
 ## ✨ Dibuat dengan Full AI
 
@@ -98,9 +98,9 @@ Website ini di-deploy menggunakan GitHub Pages dan dapat diakses melalui:
 
 **Laju Jaya Teknologi**
 
-- 📧 Email: info@lajujayateknologi.com
-- 📱 Telepon: +62 812 3456 789
-- 📍 Alamat: Jl. Teknologi Digital No. 123, Jakarta Selatan, DKI Jakarta 12345
+- 📧 Email: lajujayateknologi@gmail.com
+- 📱 Telepon: +62 8573 08563 09
+- 📍 Alamat: Citra Garden City No. B2, Ds. Sambirejo, Kec. Pare, Kabupaten Kediri, Jawa Timur 64226
 - 🌐 Website: [https://lajujayamediatek.com](https://lajujayamediatek.com)
 
 ## 📄 Lisensi
@@ -121,6 +121,6 @@ Website ini dibangun sebagai GitHub Pages site dan otomatis deploy dari main bra
 
 ---
 
-_Website ini adalah bukti nyata bahwa AI dapat menciptakan solusi web yang profesional dan fungsional. Dikembangkan 100% dengan bantuan GitHub Copilot._
+_Website ini adalah bukti nyata bahwa AI dapat menciptakan solusi web yang profesional dan fungsional. Dikembangkan 90% dengan bantuan GitHub Copilot._
 
-© 2025 Laju Jaya Teknologi. All rights reserved.
+© 2025 PT Laju Jaya Media Teknologi. All rights reserved.
