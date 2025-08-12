@@ -19,12 +19,89 @@ document.addEventListener('DOMContentLoaded', function () {
       'hero-cta1': 'Konsultasi Gratis',
       'hero-cta2': 'Pelajari Lebih Lanjut',
 
+      // About Us Section
+      'about-title': 'Tentang Kami',
+      'about-subtitle': 'Partner terpercaya untuk transformasi digital bisnis Anda',
+      'about-mission-title': 'Misi Kami',
+      'about-mission-text': 'Membantu perusahaan Indonesia dalam mengadopsi teknologi digital untuk meningkatkan efisiensi operasional dan pertumbuhan bisnis yang berkelanjutan.',
+      'about-vision-title': 'Visi Kami',
+      'about-vision-text': 'Menjadi konsultan IT terdepan yang menghadirkan solusi inovatif dan terpercaya untuk transformasi digital di Indonesia.',
+      'about-stat1-number': '10+',
+      'about-stat1-text': 'Proyek Selesai',
+      'about-stat2-number': '98%',
+      'about-stat2-text': 'Kepuasan Klien',
+      'about-stat3-number': '2+',
+      'about-stat3-text': 'Tahun Pengalaman',
+
+      // Services Section
+      'services-title': 'Layanan Kami',
+      'services-subtitle': 'Solusi teknologi komprehensif untuk kebutuhan bisnis modern',
+      'service1-title': 'IT Consulting',
+      'service1-desc': 'Konsultasi strategis untuk optimalisasi infrastruktur IT, analisis kebutuhan teknologi, dan perencanaan transformasi digital yang sesuai dengan tujuan bisnis Anda.',
+      'service1-feature1': 'Analisis infrastruktur IT',
+      'service1-feature2': 'Perencanaan strategis teknologi',
+      'service1-feature3': 'Optimalisasi sistem existing',
+      'service2-title': 'Software Development',
+      'service2-desc': 'Pengembangan aplikasi custom, sistem manajemen, dan solusi perangkat lunak yang disesuaikan dengan kebutuhan spesifik bisnis Anda.',
+      'service2-feature1': 'Aplikasi web & mobile',
+      'service2-feature2': 'Sistem manajemen bisnis',
+      'service2-feature3': 'API & integrasi sistem',
+      'service3-title': 'Software as a Service',
+      'service3-desc': 'Solusi berbasis cloud yang dapat diakses kapan saja dan dimana saja, dengan maintenance dan update otomatis untuk efisiensi operasional maksimal.',
+      'service3-feature1': 'Solusi berbasis cloud',
+      'service3-feature2': 'Maintenance & support 24/7',
+      'service3-feature3': 'Skalabilitas tinggi',
+
+      // Why Choose Us Section
+      'why-title': 'Mengapa Memilih Kami',
+      'why-subtitle': 'Keunggulan yang membuat kami berbeda dari yang lain',
+      'why1-title': 'Kualitas Terjamin',
+      'why1-desc': 'Menggunakan teknologi terkini dan metodologi pengembangan terbaik untuk menghasilkan solusi berkualitas tinggi.',
+      'why2-title': 'Pengiriman Cepat',
+      'why2-desc': 'Proses pengembangan yang efisien dengan timeline yang jelas dan komunikasi yang transparan.',
+      'why3-title': 'Tim Profesional',
+      'why3-desc': 'Tim yang berdedikasi tinggi dengan sertifikasi internasional dan komitmen pada kualitas.',
+      'why4-title': 'Support 24/7',
+      'why4-desc': 'Dukungan teknis berkelanjutan untuk memastikan sistem Anda berjalan optimal setiap saat.',
+
+      // Contact Section
+      'contact-title': 'Hubungi Kami',
+      'contact-subtitle': 'Mari diskusikan kebutuhan teknologi bisnis Anda',
+      'contact-address-title': 'Alamat',
+      'contact-address-text': 'Citra Garden City No. B2, Ds. Sambirejo, Kec. Pare, Kabupaten Kediri, Jawa Timur 64226',
+      'contact-phone-title': 'Telepon',
+      'contact-email-title': 'Email',
+      'contact-form-name': 'Nama Lengkap *',
+      'contact-form-email': 'Email *',
+      'contact-form-company': 'Perusahaan',
+      'contact-form-service': 'Layanan yang Diminati',
+      'contact-form-service-placeholder': 'Pilih Layanan',
+      'contact-form-service-software': 'Software Development',
+      'contact-form-service-consulting': 'IT Consulting',
+      'contact-form-service-saas': 'Software as a Service',
+      'contact-form-service-other': 'Lainnya',
+      'contact-form-message': 'Pesan *',
+      'contact-form-message-placeholder': 'Ceritakan kebutuhan bisnis Anda...',
+      'contact-form-submit': 'Kirim Pesan',
+
+      // Footer Section
+      'footer-company-desc': 'Partner terpercaya untuk transformasi digital bisnis Anda.',
+      'footer-quicklinks-title': 'Quick Links',
+      'footer-quicklinks-about': 'Tentang Kami',
+      'footer-quicklinks-services': 'Layanan',
+      'footer-quicklinks-portfolio': 'Portfolio',
+      'footer-quicklinks-contact': 'Kontak',
+      'footer-legal-title': 'Legal',
+      'footer-legal-privacy': 'Kebijakan Privasi',
+      'footer-legal-terms': 'Syarat & Ketentuan',
+      'footer-copyright': '© 2025 PT Laju Jaya Media Teknologi. All rights reserved.',
+
       // Portfolio
       'portfolio-title': 'Portfolio Kami',
       'portfolio-subtitle': 'Beberapa proyek yang telah kami selesaikan dengan sukses',
-      'space-app-desc': 'Aplikasi internal HRIS yang digunakan oleh SALT.',
+      'space-app-desc': 'SPACE adalah sistem untuk solusi lengkap untuk mengoptimalkan tenaga kerja dan menciptakan lingkungan kerja yang lebih kolaboratif dan produktif.',
       'senyumku-title': 'Investasi & Tabungan',
-      'senyumku-desc': 'Aplikasi perbankan digital dari Amar Bank dengan berbagai fitur menarik. Saya membuat fitur transaksi seperti Billing Payment dan QRIS.',
+      'senyumku-desc': 'Aplikasi perbankan digital dari Amar Bank dengan berbagai fitur menarik.',
       'tunaiku-title': 'Pinjaman Online Cepat',
       'tunaiku-desc': 'Aplikasi pinjaman online yang cepat dan aman, dengan proses pengajuan sederhana hanya melalui aplikasi tanpa jaminan.',
       'anekapay-title': 'Jualan Tanpa Modal',
@@ -50,12 +127,89 @@ document.addEventListener('DOMContentLoaded', function () {
       'hero-cta1': 'Free Consultation',
       'hero-cta2': 'Learn More',
 
+      // About Us Section
+      'about-title': 'About Us',
+      'about-subtitle': 'Trusted partner for your business digital transformation',
+      'about-mission-title': 'Our Mission',
+      'about-mission-text': 'Helping Indonesian companies adopt digital technology to improve operational efficiency and sustainable business growth.',
+      'about-vision-title': 'Our Vision',
+      'about-vision-text': 'To become a leading IT consultant that provides innovative and trusted solutions for digital transformation in Indonesia.',
+      'about-stat1-number': '10+',
+      'about-stat1-text': 'Projects Completed',
+      'about-stat2-number': '98%',
+      'about-stat2-text': 'Client Satisfaction',
+      'about-stat3-number': '2+',
+      'about-stat3-text': 'Years Experience',
+
+      // Services Section
+      'services-title': 'Our Services',
+      'services-subtitle': 'Comprehensive technology solutions for modern business needs',
+      'service1-title': 'IT Consulting',
+      'service1-desc': 'Strategic consulting for IT infrastructure optimization, technology needs analysis, and digital transformation planning that aligns with your business objectives.',
+      'service1-feature1': 'IT infrastructure analysis',
+      'service1-feature2': 'Strategic technology planning',
+      'service1-feature3': 'Existing system optimization',
+      'service2-title': 'Software Development',
+      'service2-desc': 'Custom application development, management systems, and software solutions tailored to your specific business needs.',
+      'service2-feature1': 'Web & mobile applications',
+      'service2-feature2': 'Business management systems',
+      'service2-feature3': 'API & system integration',
+      'service3-title': 'Software as a Service',
+      'service3-desc': 'Cloud-based solutions accessible anytime and anywhere, with automatic maintenance and updates for maximum operational efficiency.',
+      'service3-feature1': 'Cloud-based solutions',
+      'service3-feature2': '24/7 maintenance & support',
+      'service3-feature3': 'High scalability',
+
+      // Why Choose Us Section
+      'why-title': 'Why Choose Us',
+      'why-subtitle': 'Advantages that make us different from others',
+      'why1-title': 'Guaranteed Quality',
+      'why1-desc': 'Using the latest technology and best development methodologies to produce high-quality solutions.',
+      'why2-title': 'Fast Delivery',
+      'why2-desc': 'Efficient development process with clear timelines and transparent communication.',
+      'why3-title': 'Professional Team',
+      'why3-desc': 'Highly dedicated team with international certifications and commitment to quality.',
+      'why4-title': '24/7 Support',
+      'why4-desc': 'Continuous technical support to ensure your systems run optimally at all times.',
+
+      // Contact Section
+      'contact-title': 'Contact Us',
+      'contact-subtitle': 'Let\'s discuss your business technology needs',
+      'contact-address-title': 'Address',
+      'contact-address-text': 'Citra Garden City No. B2, Ds. Sambirejo, Kec. Pare, Kabupaten Kediri, East Java 64226',
+      'contact-phone-title': 'Phone',
+      'contact-email-title': 'Email',
+      'contact-form-name': 'Full Name *',
+      'contact-form-email': 'Email *',
+      'contact-form-company': 'Company',
+      'contact-form-service': 'Service of Interest',
+      'contact-form-service-placeholder': 'Select Service',
+      'contact-form-service-software': 'Software Development',
+      'contact-form-service-consulting': 'IT Consulting',
+      'contact-form-service-saas': 'Software as a Service',
+      'contact-form-service-other': 'Others',
+      'contact-form-message': 'Message *',
+      'contact-form-message-placeholder': 'Tell us about your business needs...',
+      'contact-form-submit': 'Send Message',
+
+      // Footer Section
+      'footer-company-desc': 'Trusted partner for your business digital transformation.',
+      'footer-quicklinks-title': 'Quick Links',
+      'footer-quicklinks-about': 'About Us',
+      'footer-quicklinks-services': 'Services',
+      'footer-quicklinks-portfolio': 'Portfolio',
+      'footer-quicklinks-contact': 'Contact',
+      'footer-legal-title': 'Legal',
+      'footer-legal-privacy': 'Privacy Policy',
+      'footer-legal-terms': 'Terms & Conditions',
+      'footer-copyright': '© 2025 PT Laju Jaya Media Teknologi. All rights reserved.',
+
       // Portfolio
       'portfolio-title': 'Our Portfolio',
       'portfolio-subtitle': 'Some projects that we have successfully completed',
       'space-app-desc': 'Internal HRIS application used by SALT.',
       'senyumku-title': 'Investment & Savings',
-      'senyumku-desc': 'A digital banking application from Amar Bank with a lots of interesting features. I create transaction feature like Billing Payment and QRIS.',
+      'senyumku-desc': 'A digital banking application from Amar Bank with a lots of interesting features.',
       'tunaiku-title': 'Fast Online Loans',
       'tunaiku-desc': 'A fast and safe online loan application, with a simple submission process only through the application and without collateral.',
       'anekapay-title': 'Sell Without Capital',
@@ -96,6 +250,8 @@ document.addEventListener('DOMContentLoaded', function () {
       if (translations[lang] && translations[lang][key]) {
         if (element.tagName === 'INPUT' || element.tagName === 'TEXTAREA') {
           element.placeholder = translations[lang][key];
+        } else if (element.tagName === 'OPTION') {
+          element.textContent = translations[lang][key];
         } else {
           element.textContent = translations[lang][key];
         }
@@ -115,15 +271,15 @@ document.addEventListener('DOMContentLoaded', function () {
   const langToggle = document.getElementById('lang-toggle');
   const languageSelector = document.querySelector('.language-selector');
 
-  console.log('Language elements found:', { 
-    langToggle: !!langToggle, 
+  console.log('Language elements found:', {
+    langToggle: !!langToggle,
     languageSelector: !!languageSelector
   });
 
   if (langToggle && languageSelector) {
     console.log('Setting up language selector');
-    
-    langToggle.addEventListener('click', function(e) {
+
+    langToggle.addEventListener('click', function (e) {
       e.preventDefault();
       console.log('Language toggle clicked!');
       languageSelector.classList.toggle('active');
@@ -131,7 +287,7 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 
     // Close dropdown when clicking outside
-    document.addEventListener('click', function(e) {
+    document.addEventListener('click', function (e) {
       if (!languageSelector.contains(e.target)) {
         languageSelector.classList.remove('active');
       }
@@ -143,7 +299,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     langOptions.forEach((option, index) => {
       console.log(`Setting up option ${index} for language: ${option.dataset.lang}`);
-      option.addEventListener('click', function(e) {
+      option.addEventListener('click', function (e) {
         e.preventDefault();
         const lang = this.dataset.lang;
         console.log('Language option clicked:', lang);
