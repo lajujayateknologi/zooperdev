@@ -503,10 +503,15 @@ body {
   grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
   gap: 30px;
   margin-bottom: 50px;
+  /* Ensure all items have the same height */
+  align-items: stretch;
 }
 
 .portfolio-item {
   transition: transform 0.3s ease;
+  /* Make each portfolio item stretch to full height */
+  display: flex;
+  flex-direction: column;
 }
 
 .portfolio-item:hover {
@@ -520,6 +525,10 @@ body {
   box-shadow: var(--shadow);
   transition: all 0.3s ease;
   backdrop-filter: blur(10px);
+  /* Make the card fill the entire height of its container */
+  height: 100%;
+  display: flex;
+  flex-direction: column;
 }
 
 .portfolio-card:hover {
@@ -546,6 +555,10 @@ body {
 
 .portfolio-content {
   padding: 25px;
+  /* Make content area flexible and push tech stack to bottom */
+  flex: 1;
+  display: flex;
+  flex-direction: column;
 }
 
 .portfolio-title {
@@ -560,12 +573,16 @@ body {
   color: #666;
   margin-bottom: 1.5rem;
   line-height: 1.6;
+  /* Allow description to grow and fill available space */
+  flex: 1;
 }
 
 .portfolio-tech {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
+  /* Keep tech stack at bottom */
+  margin-top: auto;
 }
 
 .tech-stack {
@@ -828,6 +845,8 @@ body {
   .portfolio-grid {
     grid-template-columns: 1fr;
     gap: 20px;
+    /* Maintain equal heights on mobile */
+    align-items: stretch;
   }
   
   .portfolio-content {
