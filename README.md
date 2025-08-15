@@ -98,7 +98,7 @@ Website ini di-deploy menggunakan GitHub Pages dan dapat diakses melalui:
 
 **Laju Jaya Teknologi**
 
-- 📧 Email: lajujayateknologi@gmail.com
+- 📧 Email: hello@lajujayamediatek.com
 - 📱 Telepon: +62 8573 08563 09
 - 📍 Alamat: Citra Garden City No. B2, Ds. Sambirejo, Kec. Pare, Kabupaten Kediri, Jawa Timur 64226
 - 🌐 Website: [https://lajujayamediatek.com](https://lajujayamediatek.com)
