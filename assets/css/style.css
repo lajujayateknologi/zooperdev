@@ -168,6 +168,11 @@ body {
   font-size: 1.4rem;
 }
 
+.nav-logo img {
+  height: 40px;
+  width: auto;
+}
+
 .nav-menu {
   display: flex;
   list-style: none;
@@ -727,6 +732,12 @@ body {
 
 .footer-section a:hover {
   color: var(--light);
+}
+
+.footer-section img {
+  height: 40px;
+  width: auto;
+  margin-bottom: 15px;
 }
 
 .footer-bottom {
